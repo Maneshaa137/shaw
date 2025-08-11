@@ -1,0 +1,219 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@600&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Syne&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+.img1{
+    background-color: rgb(19, 18, 18);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 1470px;
+    height: 1200px;
+    margin-left: -20px;
+    margin-top: -190px;
+    background-position: absolute;
+    z-index: 1;
+}
+.card1{
+    width: 28%;
+    height: 730px;
+    background: rgb(20, 20, 20);
+    position: relative;
+    display: flex;
+    border: 1px solid rgb(62, 62, 62);
+    border-radius: 35px;
+    z-index: 2;
+    margin-top: -970px;
+    margin-left: 70px;
+    position:fixed;
+}
+.img2{
+    border-radius: 30px;
+    height: 40%;
+    width: 75%;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+.img3{
+    margin-left: -290px;
+    margin-top: 60px;
+    height: 65px;
+}
+.font1{
+    font-family: "Syne", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  color:rgb(251, 243, 251);
+  font-size: 33px;
+  margin-left: 15px;
+  letter-spacing: 1.5px;
+  margin-top: 50px;
+}
+.font2{
+    font-family: "Syne", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  color:rgb(251, 243, 251);
+  font-size: 30px;
+  margin-left: -205px;
+  margin-top: 89px;
+  letter-spacing: 1.5px;
+}
+.font3{
+    font-family: "Syne", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color:rgb(212, 209, 212);
+  margin-top: 465px;
+  margin-left: -270px;
+  letter-spacing: 0.5px;
+}
+.font4{
+  font-family: "Syne", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  color: white;
+  margin-top: 490px;
+  font-size: 19px;
+  margin-left: -110px;
+}
+.font5{
+  font-family: "Syne", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  color: white;
+  margin-top: 490px;
+  margin-left: 7px;
+  font-size: 19px;
+  
+}
+.font6{
+    font-family: "Syne", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  color: white;
+  margin-top: 520px;
+  margin-left: -150px;
+  font-size: 19px;
+  
+}
+.font7{
+    font-family: "Syne", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+    margin-top: 520px;
+    margin-left: 7px;
+    font-size: 19px;
+}
+
+.font8{
+  font-family: "Syne", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(239, 221, 244);
+  font-size: 63px;
+  margin-left: 540px;
+  margin-top: -700px;
+  
+}
+.font9{
+    font-family: "Syne", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(239, 221, 244);
+  font-size: 63px;
+  margin-top: -140px;
+  margin-left: 660px;
+  
+}
+.font10{
+    font-family: "Syne", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(239, 221, 244);
+  font-size: 63px;
+  margin-top: -140px;
+  margin-left: 1045px;
+}
+.font11{
+    font-family: "Syne", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(239, 221, 244);
+    font-size: 60px;
+    margin-left: 540px;
+    margin-top: -15px;
+  }
+  .font12{
+    font-family: "Syne", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(239, 221, 244);
+    font-size: 60px;
+    margin-left: 930px;
+    margin-top: -132px;
+  }
+  .font13{
+    font-family: "Syne", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(239, 221, 244);
+    font-size: 60px;
+    margin-left: 540px;
+    margin-top: -70px;
+  }
+  .font14{
+    font-family: "Syne", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(239, 221, 244);
+    font-size: 60px;
+    margin-left: 1090px;
+    margin-top: -133px;
+  }
+  .pg2{
+    width: 1470px;
+    height: 1200px;
+    margin-left: -20px;
+    background-color: rgb(19, 18, 18);
+  }
+  .font15{
+  font-family: "Syne", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(239, 221, 244);
+  font-size: 60px;
+  margin-left: 560px;
+  margin-top: 200px;
+  }
+  .img4{
+    border-radius: 30px;
+    height: 50%;
+    width: 30%;
+    margin-left: 550px;
+    margin-top: -10px;
+    border: 1px solid rgb(243, 202, 245)apro aprsw;
+  }
+
+  
